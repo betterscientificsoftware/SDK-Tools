@@ -4,5 +4,6 @@ This repository contains a collection of documents that support planning for and
 
 #### Key Repository Documents
 
+- [SDK Tools Homepage:](SDK-Tools-Home.md) Describes the purpose of the repository.
 - [SDK Overview:](SDK-Overview.md) This document defines and describes the characteristics of an SDK.
 .
