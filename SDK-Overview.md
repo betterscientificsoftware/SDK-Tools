@@ -22,3 +22,6 @@ ECP ST SDKs are organized “horizontally”. A vertical coupling in this sense 
 * Potentially engage in inter-package planning and community outreach
   * In addition to autonomous package planning and outreach
 
+### SDK Membership / Community Policies
+
+Each SDK adopts a set of Community Policies. The mandatory policies provide the standards for SDK membership. Member packages are also encouraged to achieve compatibility with recommended community policies. The xSDK has adopted a set of [community policies](https://xsdk.info/policies/) that can be used for a starting point for community policy discussion among SDK developer communities.
