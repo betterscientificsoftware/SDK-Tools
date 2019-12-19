@@ -6,6 +6,6 @@ This repository contains a collection of documents that support planning for and
 
 - [SDK Overview:](SDK-Overview.md) This document defines and describes the characteristics of an SDK.
 - [Growing SDK Community:](growing.md) Describes approaches for building a community around an SDK.
-- [Release Maturity:](releases.md) Focuses on decisions that must be made to sustain releases of interoperable software and important aspects of individual product release readiness.
+- [Release Maturity:](release.md) Focuses on decisions that must be made to sustain releases of interoperable software and important aspects of individual product release readiness.
 
 .
