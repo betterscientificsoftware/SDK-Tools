@@ -1,6 +1,6 @@
 ## SDK Community Building
 
-Once a logical set of potential member packages has been identified, the work of bringing together software development teams coming from potentially very diverse cultures and work backgrounds begins. A good goal to begin with is to define an initial set of community policies for the SDK. However, to promote a stronger, more functional community it is important to consider several factors:
+Once a logical set of potential member packages has been identified, the work of bringing together software development teams coming from potentially very diverse cultures and work backgrounds begins. A good goal to begin with is to define an initial set of community policies for the SDK. A Progress Tracking Card (PTC) outlining an approach to [define and adopt SDK Community Policies](https://docs.google.com/document/d/1ay8n8l8rg8TA92NpajktFA8Ua7p-fKF9RAzG92WQilk/edit?usp=sharing) is available from the [Better Scientific Software](https://bssw.io) Team. Additionally, to promote a stronger, more functional community it is important to consider several factors:
 
 1. Community policies should be discussed among all development teams. When applicable, it is important to have representation from members with a variety of software engineering expertise and maturity. Mandatory policies should not be estabilshed that many potential members cannot feasibly comply with unless the policy is absolutely necessary. Such policies can be recommended, potentially with a plan for when to make them mandatory.
 
