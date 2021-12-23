@@ -1,5 +1,7 @@
 ## SDK Community Building
 
+### Getting Started
+
 Once a logical set of potential member packages has been identified, the work of bringing together software development teams coming from potentially very diverse cultures and work backgrounds begins. A good goal to begin with is to define an initial set of community policies for the SDK. A Progress Tracking Card (PTC) outlining an approach to [define and adopt SDK Community Policies](https://docs.google.com/document/d/1ay8n8l8rg8TA92NpajktFA8Ua7p-fKF9RAzG92WQilk/edit?usp=sharing) is available from the [Better Scientific Software](https://bssw.io) Team. Additionally, to promote a stronger, more functional community it is important to consider several factors:
 
 1. Community policies should be discussed among all development teams. When applicable, it is important to have representation from members with a variety of software engineering expertise and maturity. Mandatory policies should not be estabilshed that many potential members cannot feasibly comply with unless the policy is absolutely necessary. Such policies can be designated as future policies. Future policies typically require additional refinement or time before adoption as membership criteria. Future policies should not simply be suggested practices with no intention of full adoption.
@@ -9,6 +11,8 @@ Once a logical set of potential member packages has been identified, the work of
 1. It is not necessary for the entire development team of a member package to be engaged in the SDK effort, but the team members that are engaged need to have enough leverage to implement agreed to community policies that the project is not already compatible with.
 
 1. Establishing workflows and policies and doing planning activities for the SDK community does not replace these activities at the member package level.
+
+### SDK Value Proposition
 
 Another key aspect of building an SDK community is clearly identifying the specific needs of the community that will make the SDK valuable. Understanding and communicating these needs is useful for obtaining and retaining funding for SDK efforts. These needs are highly specific to each SDK, but some examples of the kinds of needs that an SDK community can help to meet are:
 
@@ -25,3 +29,7 @@ Another key aspect of building an SDK community is clearly identifying the speci
 1. Serving as a common point of contact for users who have needs that are currently unmet. After gaining an understanding of the requirements, it may be apprpopriate for one or more member packaages to coordinate to provide the needed functionality.
 
 1. Providing a forum to develop standard interfaces and critical best practices. While some diverse efforts in an area allow for the best ideas to proceed, it is also important not to duplicate efforts unnecessarily.
+
+### Promoting Growth and Improvement
+
+Once a SDK community has been established, it can be challenging to promote growth and improvement. After a set of packages has achieved compatibility with the policies, does it make sense to add a policy or strengthen a policy if it would cause some existing member packages to no longer be compatible? It might if the policy is sufficiently important, but regardless it might also cause strain on the relationship between the package development team and the rest of the SDK team. One option in these cases is to simply wait, and this can be effective if a planned policy change is announced far in advance. Another approach that can be employed is to use a badging system. Such a system rewards packages with badges for achieving policy compatibility at different levels. In this way, incentive is available for lower and higher levels of compatibility. This approach is being considered for E4S.
