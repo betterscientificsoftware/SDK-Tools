@@ -26,6 +26,8 @@ Another key aspect of building an SDK community is clearly identifying the speci
 
 1. Coordinating porting efforts, such that common platform issues do not have to be resolved independently by many teams.
 
+1. Providing a trusted source for complimentary tools. In this way, a set of tools can be used together as a suite that is more valuable than the sum of its parts.
+
 1. Serving as a common point of contact for users who have needs that are currently unmet. After gaining an understanding of the requirements, it may be apprpopriate for one or more member packaages to coordinate to provide the needed functionality.
 
 1. Providing a forum to develop standard interfaces and critical best practices. While some diverse efforts in an area allow for the best ideas to proceed, it is also important not to duplicate efforts unnecessarily.
